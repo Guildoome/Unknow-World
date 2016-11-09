@@ -1,0 +1,9 @@
+package fr.modele.message;
+
+public enum EMessageType {
+	MESSAGE_SYSTEME,
+	MESSAGE_JEU,
+	MESSAGE_CONSTRUCTION,
+	MESSAGE_EXPLORATION,
+	MESSAGE_DEFENSE;
+}

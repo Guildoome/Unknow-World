@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="package" author="true" classpath="data/mysql-connector-java-5.1.39-bin.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="fr.modele.image,fr.modele.ressource,fr.unite,fr.modele.message,fr.jeu,fr.modele.batiment,fr.modele,fr.modele.bd,fr.controller,fr.modele.job,fr.vue" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
